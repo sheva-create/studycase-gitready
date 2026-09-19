@@ -3,6 +3,7 @@
 
 ## Visualisasi
 
+<img width="1917" height="1078" alt="Screenshot 2026-09-19 122245" src="https://github.com/user-attachments/assets/5a8c9446-9da4-41e3-81c4-3085bf2b0e6c" />
 
 
 ## Tech Stack
